@@ -1,4 +1,5 @@
 # snake-water-gun-game
+# author-shreya mishra
 
 import random
 
